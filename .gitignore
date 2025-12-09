@@ -1,0 +1,35 @@
+# Virtual environment - exclude the entire .venv folder
+.venv/
+venv/
+ENV/
+env/
+
+# Large data files
+*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/
+
+# Environment variables
+.env

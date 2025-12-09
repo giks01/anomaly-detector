@@ -1,0 +1,22 @@
+# Core
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+jupyter
+
+# Geospatial
+geopandas
+rasterio
+rasterstats
+shapely
+pyproj
+contextily
+
+# Satellite / Earth Observation
+sentinelhub
+
+# HTTP / APIs
+requests
+python-dotenv
